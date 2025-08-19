@@ -53,5 +53,7 @@ Una aplicación de consola en Java que permite realizar conversiones de monedas 
 ```bash
 # JDK 17 o superior
 java -version
-
 # Maven
+```
+## 👨‍💻 Autor
+- Davis Jhostin Pajuelo Salvador - @dpajuelos
